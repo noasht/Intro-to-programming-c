@@ -1,14 +1,8 @@
-# 🖥️ Introduction to Programming (C++)
+# Introduction to Programming (C++)
 
-<div align="center">
+📚 Introduction to Programming course assignments at SCE College of Engineering
 
-![Language](https://img.shields.io/badge/Language-C++-blue.svg)
-![Course](https://img.shields.io/badge/Course-Introduction%20to%20Programming-green.svg)
-![Institution](https://img.shields.io/badge/Institution-SCE-orange.svg)
-
-**A collection of programming assignments from the Introduction to Programming course**
-
-</div>
+**Language:** C++ | **Topics:** I/O, Loops, Functions, Arrays, Pointers, Recursion
 
 ---
 
