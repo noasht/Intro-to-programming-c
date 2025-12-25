@@ -12,17 +12,17 @@ This repository contains all programming assignments completed during the **Intr
 
 ## 🗂️ Project Structure
 ```
-├── hw1_basics/
+├── HW1_Basics/
 │   └── main.cpp
-├── hw2_chat_system/
+├── HW2_Chat_System/
 │   └── main.cpp
-├── hw3_battleship/
+├── HW3_Battleship/
 │   ├── part1_arrays.cpp
 │   ├── part2_strings.cpp
 │   └── part3_battleship.cpp
-├── hw4_dictionary/
+├── HW4_Dictionary/
 │   └── main.cpp
-└── hw5_recursion/
+└── HW5_Recursion/
     └── main.cpp
 ```
 
