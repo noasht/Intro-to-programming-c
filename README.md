@@ -98,14 +98,6 @@ Complete implementation of the classic Battleship game with random ship placemen
 
 ---
 
-## 🛠️ Build & Run
-```bash
-g++ -o program main.cpp
-./program
-```
-
----
-
 ## 📄 License
 
 Academic coursework at SCE College of Engineering.
